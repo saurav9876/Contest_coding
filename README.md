@@ -1,2 +1,2 @@
 # Contest_coding
-Coding questions solved my me in various Contest
+Coding questions solved By me in various Contest
